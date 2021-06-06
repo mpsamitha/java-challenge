@@ -1,3 +1,10 @@
+# java-challenge-axa Enhancements
+
+- Change Employee Entity with getters and setters
+- Add Employee service tests
+- Add Controller tests
+
+
 ### How to use this spring-boot project
 
 - Install packages with `mvn package`
