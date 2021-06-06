@@ -46,5 +46,5 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 #### Your experience in Java
 
 Please let us know more about your Java experience in a few sentences. For example:
-Answer:
+
 - I'm a beginner and just recently learned Spring Boot
